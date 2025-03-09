@@ -8,10 +8,7 @@ This Python script reads a text file containing addresses and splits it into mul
 2.  Open a terminal or command prompt.
 3.  Run the script using the following command:
     
-    bash
-    
-    CopyEdit
-    
+    bash:
     `python acu_csv_maker.py input.txt` 
     
     Replace `input.txt` with the actual filename of your text file.
